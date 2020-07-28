@@ -1,7 +1,8 @@
 {
   "HOME": {
     "TITLE": "Hello, please subscribe",
-    "WELCOME": "Thank you {{name}}, you are awesome"
+    "FIRSTNAME": "Nurdaulet",
+    "CITY": "Aktau"
   },
   "BUTTON": {
     "LANG": {
